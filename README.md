@@ -1,3 +1,3 @@
 # Activity-Recognition
 
-This repo contains model pipelines for activity recognition using IMU sensors and microphones. 
+This repository contains model pipelines for activity recognition using IMU sensors and microphones. 
